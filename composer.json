@@ -1,6 +1,6 @@
 {
     "name": "jordillonch/crud-generator",
-    "description": "This bundle generates a nice CRUD",
+    "description": "This bundle generates a nice CRUD. Compatible with symfony 2.6",
     "keywords": ["crud", "generator"],
     "homepage": "https://github.com/jordillonch/CrudGeneratorBundle",
     "type": "symfony-bundle",
